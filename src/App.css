@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+textarea {
+  height:300px;
+  width:500px;
+}
+
+li {
+  text-align: left;
+}
+
+ul {
+  list-style:none;
+  padding-left:0;
+}
+
+select {
+  width:100%;
+}
